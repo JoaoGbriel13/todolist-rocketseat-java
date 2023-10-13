@@ -1,9 +1,0 @@
-br\com\joaog\todolist\Handler\ExceptionHandlerController.class
-br\com\joaog\todolist\Repository\ITaskRepository.class
-br\com\joaog\todolist\Controller\TaskController.class
-br\com\joaog\todolist\Repository\IUserRepository.class
-br\com\joaog\todolist\Controller\UserController.class
-br\com\joaog\todolist\TodolistApplication.class
-br\com\joaog\todolist\Filter\FilterTaskAuth.class
-br\com\joaog\todolist\Model\TaskModel.class
-br\com\joaog\todolist\Model\UserModel.class
